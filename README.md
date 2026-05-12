@@ -25,6 +25,7 @@ My long-term goal is to work in motorsport engineering — combining software, d
 
 📍 Nairobi, Kenya  
 📧 edwardmaina62@gmail.com
++254758427597
 <!--
 **Novice-max/Novice-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
